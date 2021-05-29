@@ -1,0 +1,6 @@
+FROM alpine:tag
+LABEL (if needed)
+EXPOSE port number
+ENV
+and 
+...
